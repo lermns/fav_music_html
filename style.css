@@ -1,0 +1,81 @@
+body{
+    background-image: url("https://res.cloudinary.com/dxte0oxyq/image/upload/v1775029852/fondo_kpxoqk.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 2vh;
+}
+
+video{
+    display: block;
+    margin: 0 auto;
+    margin-top: 5vh;
+    width: 85%;
+    border-radius: 20px;
+}
+
+table{
+    margin: 0 auto;
+    margin-top: 1vh;
+    width: 20%;
+}
+
+.intro{
+    margin: 0 auto;
+    margin-top: 1vh;
+    width: 70%;   
+    margin-left: 423px;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 4vh;
+}
+
+.description td{
+    border: 1px solid white;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+td:first-child{
+    font-weight: bold;
+    color: black;
+    align-items: start;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    margin-top: 5vh;
+    width: 61.5%;
+    border-radius: 20px;
+}
+
+.old{
+    display: block;
+    margin: 0 auto;
+    margin-top: 5vh;
+    width: 95.5%;
+    border-radius: 20px;
+}
+
+.young{
+    display: block;
+    margin: 0 auto;
+    margin-top: 5vh;
+    width: 61.5%;
+    border-radius: 20px;
+    margin-left: 3px;
+}
